@@ -1,0 +1,11 @@
+{
+  "properties": {
+ "NAME": "SOUTA",
+ "ADDRESS": "Hobart, Tasmania, Australia Shop2-3/73-75 Main Road Moonah"
+  },
+"geometry": {
+"SOUTA_ID": 960,
+"type": "Point",
+"coordinates": [-42.847240, 147.295920]  
+  }
+}
